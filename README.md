@@ -7,3 +7,6 @@ Tâche 5 : lattice.ipynb
 
 
 Tâche 6 : symmetry.ipynb
+
+
+Tâche 7 : xrd.ipynb
